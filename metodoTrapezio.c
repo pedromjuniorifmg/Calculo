@@ -4,7 +4,7 @@ Autores: Angel Gabriel Arieta, Marcos Vinícius Pivetta e Vinícius Franceschi
 
 Comandos Linux para rodar:
 sudo apt-get install libmatheval-dev (instalar biblioteca)
-gcc trabtrapezio.c -o exe -lmatheval (compilar)
+gcc metodoTrapezio.c -o exe -lmatheval (compilar)
 ./exe (executar)
 
 */
